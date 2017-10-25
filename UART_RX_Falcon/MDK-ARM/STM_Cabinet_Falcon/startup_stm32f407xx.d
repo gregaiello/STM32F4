@@ -1,0 +1,1 @@
+stm_cabinet_falcon\startup_stm32f407xx.o: startup_stm32f407xx.s
